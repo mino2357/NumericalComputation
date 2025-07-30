@@ -36,6 +36,11 @@
 *.exe
 *.out
 *.app
+*.out
 
 # debug information files
 *.dwo
+
+*.dat
+
+.vscode/
